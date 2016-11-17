@@ -1,0 +1,39 @@
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Bot Application1.dll.config
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Bot Application1.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Bot Application1.pdb
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Autofac.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Chronic.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.Bot.Builder.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.Bot.Connector.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.Rest.ClientRuntime.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.WindowsAzure.Configuration.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Newtonsoft.Json.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\System.IdentityModel.Tokens.Jwt.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\System.Net.Http.Formatting.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\System.Web.Http.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\System.Web.Http.WebHost.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Autofac.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.Bot.Builder.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.Bot.Connector.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.Rest.ClientRuntime.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Microsoft.WindowsAzure.Configuration.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\Newtonsoft.Json.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\System.IdentityModel.Tokens.Jwt.pdb
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\System.IdentityModel.Tokens.Jwt.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\System.Net.Http.Formatting.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\System.Web.Http.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\System.Web.Http.WebHost.xml
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\en\Microsoft.Bot.Builder.resources.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\es\Microsoft.Bot.Builder.resources.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\obj\Release\Bot Application1.dll
+d:\git\MMCBOT\MMCBOT\MMCBOT\obj\Release\Bot Application1.pdb
+d:\git\MMCBOT\MMCBOT\MMCBOT\obj\Release\MMCBOT.csprojResolveAssemblyReference.cache
